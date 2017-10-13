@@ -1,0 +1,26 @@
+
+.yellow{
+  background-color: #FFBC2F;
+  padding-bottom: 3em;
+  width: 220px;
+  height: 90px;
+  display: inline-block;
+}
+.grey{
+  background-color: black;
+  padding-bottom: 3em;
+  width: 220px;
+  height: 90px;
+  display: inline-block;
+  margin: 20px;
+}
+
+h4{
+  padding: 0.4em;
+}
+
+.segundoh4{
+  color: white;
+  padding: 0.4em;
+
+}
